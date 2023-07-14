@@ -1,0 +1,2 @@
+Prefix plugins/Estimator/example/
+Plugin Estimator inputfile parameters.txt outputfile none
